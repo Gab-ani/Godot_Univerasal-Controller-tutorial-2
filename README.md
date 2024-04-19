@@ -2,4 +2,4 @@ The code for a part II of character controller tutorial series. In this part we 
 
 The table of states transition: https://docs.google.com/spreadsheets/d/1g3Epn-2Rf-fAI8XPp9UfOkeH6QwFUIz8fWFDrPdhe40/edit?usp=sharing
 
-Code explanation and architecture design choices here: (To fix a schedule a bit, the video will be released on 19.04)
+Code explanation and architecture design choices here: https://www.youtube.com/watch?v=kK5NXyIsEQI
